@@ -1,0 +1,1 @@
+print("neho is best aşko")
